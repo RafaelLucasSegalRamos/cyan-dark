@@ -2,7 +2,11 @@
   "name": "cyan-dark",
   "displayName": "Nyx team theme",
   "description": "It's a theme made most of color related to cyan and made by NYX team!",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Nyx-team",
+  "repository": {
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
