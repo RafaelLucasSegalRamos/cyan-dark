@@ -5,8 +5,17 @@
   "version": "1.0.0",
   "publisher": "Nyx-team",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/RafaelLucasSegalRamos/cyan-dark"
   },
+  "keywords": [
+    "Nyx",
+    "Theme",
+    "tema",
+    "dark theme",
+    "tema escuro",
+    "tema dark"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
